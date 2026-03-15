@@ -1,0 +1,4 @@
+pm_api_url = "https://your-ip:8006/api2/json"
+pm_api_token_id = "user@pam!token"
+# Leave secrets empty
+pm_api_token_secret = ""
